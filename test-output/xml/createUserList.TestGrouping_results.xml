@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Create User Details validation"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.949">
+    <properties></properties>
+
+
+
+            <testcase
+                name="bookLib_xml"
+                time="0.001"
+                classname="createUserList.TestGrouping">
+            </testcase>
+            <testcase
+                name="convert_CelsiusToFahrenheit"
+                time="0.446"
+                classname="createUserList.TestGrouping">
+            </testcase>
+            <testcase
+                name="test_next_scenario"
+                time="0.001"
+                classname="createUserList.TestGrouping">
+            </testcase>
+            <testcase
+                name="create_A_new_User"
+                time="3.501"
+                classname="createUserList.TestGrouping">
+            </testcase>
+</testsuite>

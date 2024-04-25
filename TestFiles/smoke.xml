@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Learning Extent reporting smoke test cases">
+
+    <test name="Get email of a specific ID" >
+
+        <classes>
+            <class name="extentReportLearn.ExtentReport_smoke" />
+        </classes>
+    </test>
+</suite>

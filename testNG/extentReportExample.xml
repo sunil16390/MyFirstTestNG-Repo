@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Learning Extent reporting">
+
+    <test name="Get name of mobile of a specific ID" >
+        <parameter name="expected_id" value="8"></parameter>
+        <parameter name="expectedMobileName" value="Apple Watch Series 8"></parameter>
+        <classes>
+            <class name="addNewProduct.ExtentReport" />
+        </classes>
+    </test>
+</suite>

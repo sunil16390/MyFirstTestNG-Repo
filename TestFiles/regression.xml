@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Learning Extent reporting regression test cases">
+
+    <test name="Get last name of a specific ID" >
+
+        <classes>
+            <class name="extentReportLearn.ExtentReport_regression" />
+        </classes>
+    </test>
+</suite>

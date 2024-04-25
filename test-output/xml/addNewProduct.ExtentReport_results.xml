@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Get name of mobile of a specific ID"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.518">
+    <properties></properties>
+
+
+
+            <testcase
+                name="validateSoapIdAndEmail"
+                time="0.514"
+                classname="addNewProduct.ExtentReport">
+            </testcase>
+            <testcase
+                name="user_validates_if_id_equals_to_then_mobile_name_is"
+                time="4.004"
+                classname="addNewProduct.ExtentReport">
+            </testcase>
+</testsuite>

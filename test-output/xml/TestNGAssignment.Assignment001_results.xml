@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="get call to validate product Response"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.617">
+    <properties></properties>
+
+
+
+            <testcase
+                name="productResponse_validation"
+                time="2.617"
+                classname="TestNGAssignment.Assignment001">
+            </testcase>
+</testsuite>

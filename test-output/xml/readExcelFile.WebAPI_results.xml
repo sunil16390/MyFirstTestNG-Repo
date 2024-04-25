@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Validate different WebApi"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.552">
+    <properties></properties>
+
+
+
+            <testcase
+                name="do_All_Web_App_Test"
+                time="3.552"
+                classname="readExcelFile.WebAPI">
+            </testcase>
+</testsuite>

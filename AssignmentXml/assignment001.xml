@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Assignment001">
+
+       <test name="get call to validate product Response" >
+
+        <classes>
+            <class name="TestNGAssignment.Assignment001" />
+        </classes>
+    </test>
+
+</suite>

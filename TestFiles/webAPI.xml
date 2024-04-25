@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="TestNG WebAPI Workshop">
+
+    <test name="Validate different WebApi" >
+
+        <classes>
+            <class name="readExcelFile.WebAPI" />
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Learning Extent reporting e2e test cases">
+
+    <test name="Get first name of a specific ID" >
+
+        <classes>
+            <class name="extentReportLearn.ExtentReport_e2e" />
+        </classes>
+    </test>
+</suite>

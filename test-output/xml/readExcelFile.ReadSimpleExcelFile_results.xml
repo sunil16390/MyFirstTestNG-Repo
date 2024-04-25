@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNG_RestAssurd"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.381">
+    <properties></properties>
+
+
+
+            <testcase
+                name="read_and_print_simple_XL"
+                time="0.381"
+                classname="readExcelFile.ReadSimpleExcelFile">
+            </testcase>
+</testsuite>

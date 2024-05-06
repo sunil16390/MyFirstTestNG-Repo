@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="4.548">
+           time="3.665">
     <properties></properties>
 
 
 
             <testcase
                 name="Do_Web_API_Validation"
-                time="4.548"
+                time="3.665"
                 classname="readExcelFile.Workshop">
             </testcase>
 </testsuite>

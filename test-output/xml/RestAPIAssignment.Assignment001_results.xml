@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="post and get response to validate Pet Details"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="28.315">
+    <properties></properties>
+
+
+
+            <testcase
+                name="createPetDetails"
+                time="25.994"
+                classname="RestAPIAssignment.Assignment001">
+            </testcase>
+            <testcase
+                name="delete_petDetails_record"
+                time="1.102"
+                classname="RestAPIAssignment.Assignment001">
+            </testcase>
+            <testcase
+                name="getCallToPetDetails"
+                time="1.219"
+                classname="RestAPIAssignment.Assignment001">
+            </testcase>
+</testsuite>

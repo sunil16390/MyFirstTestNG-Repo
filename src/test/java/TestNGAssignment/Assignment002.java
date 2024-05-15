@@ -113,7 +113,7 @@ public class Assignment002 {
 
         //validate Address
         String newAddressInResponse = response.getBody().jsonPath().getString("data[0].Address");
-        Assert.assertEquals(addressInResponse,UpdatedAddress);
+        Assert.assertEquals(newAddressInResponse,UpdatedAddress);
         System.out.println("Value of new Address in response is: "+newAddressInResponse);
 
     }

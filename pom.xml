@@ -98,7 +98,7 @@
                 <configuration>
                     <!-- This is for testNG maven run -->
                     <suiteXmlFiles>
-                        <suiteXmlFile>TestFiles\workshop.xml</suiteXmlFile> <!-- this for rest assured run-->
+                        <suiteXmlFile></suiteXmlFile> <!-- this for rest assured run-->
                     </suiteXmlFiles>
                     <testFailureIgnore>true</testFailureIgnore>
                 </configuration>
